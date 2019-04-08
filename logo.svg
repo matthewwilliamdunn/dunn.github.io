@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="565px" height="84px" viewBox="0 0 565 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)" fill="#6E7679">
+            <text id="Eisenhower" font-family="ChronicleDisplay-Semi, Chronicle Display" font-size="90" font-weight="500" letter-spacing="0.1777778">
+                <tspan x="98" y="72">Eisenho</tspan>
+                <tspan x="416.494445" y="72" letter-spacing="-0.82">we</tspan>
+                <tspan x="523.754445" y="72">r</tspan>
+            </text>
+            <circle id="Oval" stroke="#6E7679" cx="40.5" cy="41.5" r="40.5"></circle>
+        </g>
+    </g>
+</svg>
